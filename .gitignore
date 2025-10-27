@@ -1,0 +1,10 @@
+# Ignorar entorno virtual y configuración de Qodo
+venv/
+.qodo/
+
+# Archivos de Python que no deben subirse
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
